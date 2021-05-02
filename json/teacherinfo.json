@@ -1,0 +1,164 @@
+{
+  "RECORDS": [
+    {
+      "teacherId": "1",
+      "teacherName": "芒果",
+      "teacherAccount": "liyinping",
+      "teacherPwd": "123456",
+      "adminPower": "1",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "2",
+      "teacherName": "柠檬",
+      "teacherAccount": "pcs",
+      "teacherPwd": "123123",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "3",
+      "teacherName": "方正",
+      "teacherAccount": "fangzheng",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "4",
+      "teacherName": "曾勇",
+      "teacherAccount": "zengy",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "5",
+      "teacherName": "董勇",
+      "teacherAccount": "dongy",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "6",
+      "teacherName": "周应琴",
+      "teacherAccount": "zhouyq",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "7",
+      "teacherName": "万红兵",
+      "teacherAccount": "wanhb",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "8",
+      "teacherName": "黄小荣",
+      "teacherAccount": "hxr123",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "9",
+      "teacherName": "代丽敏",
+      "teacherAccount": "dailm",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "10",
+      "teacherName": "赵国强",
+      "teacherAccount": "zgq121",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "11",
+      "teacherName": "刘能",
+      "teacherAccount": "liun",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "12",
+      "teacherName": "谢广坤",
+      "teacherAccount": "gungk",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "13",
+      "teacherName": "王长贵",
+      "teacherAccount": "changg",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "14",
+      "teacherName": "谢大脚",
+      "teacherAccount": "dajiao",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "15",
+      "teacherName": "谢永强",
+      "teacherAccount": "yongq",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "16",
+      "teacherName": "王小蒙",
+      "teacherAccount": "xiaom",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "17",
+      "teacherName": "赵玉田",
+      "teacherAccount": "yutian",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "18",
+      "teacherName": "刘英",
+      "teacherAccount": "yingzi",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "21",
+      "teacherName": "猿来入此",
+      "teacherAccount": "ylrc",
+      "teacherPwd": "123456",
+      "adminPower": "1",
+      "isWork": "1"
+    },
+    {
+      "teacherId": "22",
+      "teacherName": "测试教师",
+      "teacherAccount": "teacher",
+      "teacherPwd": "123456",
+      "adminPower": "0",
+      "isWork": "1"
+    }
+  ]
+}

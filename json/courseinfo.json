@@ -1,0 +1,64 @@
+{
+  "RECORDS": [
+    {
+      "courseId": "1",
+      "courseName": "语文",
+      "division": "1",
+      "gradeId": "3"
+    },
+    {
+      "courseId": "2",
+      "courseName": "数学",
+      "division": "0",
+      "gradeId": "2"
+    },
+    {
+      "courseId": "3",
+      "courseName": "英语",
+      "division": "1",
+      "gradeId": "1"
+    },
+    {
+      "courseId": "4",
+      "courseName": "常识题",
+      "division": "0",
+      "gradeId": "1"
+    },
+    {
+      "courseId": "5",
+      "courseName": "理化类",
+      "division": "0",
+      "gradeId": "1"
+    },
+    {
+      "courseId": "6",
+      "courseName": "天文类",
+      "division": "0",
+      "gradeId": "1"
+    },
+    {
+      "courseId": "7",
+      "courseName": "文史类",
+      "division": "0",
+      "gradeId": "1"
+    },
+    {
+      "courseId": "8",
+      "courseName": "文体类",
+      "division": "0",
+      "gradeId": "1"
+    },
+    {
+      "courseId": "9",
+      "courseName": "计算机常识",
+      "division": "0",
+      "gradeId": "4"
+    },
+    {
+      "courseId": "10",
+      "courseName": "网络安全",
+      "division": "2",
+      "gradeId": "4"
+    }
+  ]
+}

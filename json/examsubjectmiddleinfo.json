@@ -1,0 +1,194 @@
+{
+  "RECORDS": [
+    {
+      "esmId": "1",
+      "examPaperId": "1",
+      "subjectId": "10"
+    },
+    {
+      "esmId": "3",
+      "examPaperId": "3",
+      "subjectId": "3"
+    },
+    {
+      "esmId": "4",
+      "examPaperId": "3",
+      "subjectId": "4"
+    },
+    {
+      "esmId": "7",
+      "examPaperId": "5",
+      "subjectId": "426"
+    },
+    {
+      "esmId": "8",
+      "examPaperId": "5",
+      "subjectId": "552"
+    },
+    {
+      "esmId": "9",
+      "examPaperId": "5",
+      "subjectId": "946"
+    },
+    {
+      "esmId": "10",
+      "examPaperId": "5",
+      "subjectId": "4954"
+    },
+    {
+      "esmId": "11",
+      "examPaperId": "5",
+      "subjectId": "404"
+    },
+    {
+      "esmId": "20",
+      "examPaperId": "7",
+      "subjectId": "6541"
+    },
+    {
+      "esmId": "21",
+      "examPaperId": "7",
+      "subjectId": "6542"
+    },
+    {
+      "esmId": "22",
+      "examPaperId": "7",
+      "subjectId": "6543"
+    },
+    {
+      "esmId": "23",
+      "examPaperId": "7",
+      "subjectId": "6544"
+    },
+    {
+      "esmId": "24",
+      "examPaperId": "7",
+      "subjectId": "6545"
+    },
+    {
+      "esmId": "25",
+      "examPaperId": "7",
+      "subjectId": "6546"
+    },
+    {
+      "esmId": "36",
+      "examPaperId": "8",
+      "subjectId": "6508"
+    },
+    {
+      "esmId": "37",
+      "examPaperId": "8",
+      "subjectId": "6523"
+    },
+    {
+      "esmId": "38",
+      "examPaperId": "8",
+      "subjectId": "6525"
+    },
+    {
+      "esmId": "39",
+      "examPaperId": "8",
+      "subjectId": "6541"
+    },
+    {
+      "esmId": "40",
+      "examPaperId": "8",
+      "subjectId": "6542"
+    },
+    {
+      "esmId": "41",
+      "examPaperId": "8",
+      "subjectId": "6543"
+    },
+    {
+      "esmId": "42",
+      "examPaperId": "8",
+      "subjectId": "6544"
+    },
+    {
+      "esmId": "43",
+      "examPaperId": "8",
+      "subjectId": "6545"
+    },
+    {
+      "esmId": "44",
+      "examPaperId": "8",
+      "subjectId": "6546"
+    },
+    {
+      "esmId": "46",
+      "examPaperId": "2",
+      "subjectId": "5902"
+    },
+    {
+      "esmId": "47",
+      "examPaperId": "2",
+      "subjectId": "4714"
+    },
+    {
+      "esmId": "48",
+      "examPaperId": "2",
+      "subjectId": "5020"
+    },
+    {
+      "esmId": "49",
+      "examPaperId": "2",
+      "subjectId": "2185"
+    },
+    {
+      "esmId": "50",
+      "examPaperId": "2",
+      "subjectId": "2995"
+    },
+    {
+      "esmId": "51",
+      "examPaperId": "2",
+      "subjectId": "1402"
+    },
+    {
+      "esmId": "52",
+      "examPaperId": "2",
+      "subjectId": "2288"
+    },
+    {
+      "esmId": "53",
+      "examPaperId": "2",
+      "subjectId": "4470"
+    },
+    {
+      "esmId": "54",
+      "examPaperId": "2",
+      "subjectId": "4416"
+    },
+    {
+      "esmId": "55",
+      "examPaperId": "2",
+      "subjectId": "2695"
+    },
+    {
+      "esmId": "56",
+      "examPaperId": "2",
+      "subjectId": "1435"
+    },
+    {
+      "esmId": "57",
+      "examPaperId": "2",
+      "subjectId": "5399"
+    },
+    {
+      "esmId": "58",
+      "examPaperId": "2",
+      "subjectId": "4136"
+    },
+    {
+      "esmId": "59",
+      "examPaperId": "2",
+      "subjectId": "611"
+    },
+    {
+      "esmId": "60",
+      "examPaperId": "2",
+      "subjectId": "6185"
+    }
+  ]
+}

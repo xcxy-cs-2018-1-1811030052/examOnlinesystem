@@ -1,0 +1,123 @@
+{
+  "RECORDS": [
+    {
+      "studentId": "1",
+      "studentName": "谢鹏飞",
+      "studentAccount": "xiepengfei",
+      "studentPwd": "123",
+      "classId": "1"
+    },
+    {
+      "studentId": "2",
+      "studentName": "兰妮",
+      "studentAccount": "lanni",
+      "studentPwd": "123456",
+      "classId": "2"
+    },
+    {
+      "studentId": "3",
+      "studentName": "皮志高",
+      "studentAccount": "pizhigao",
+      "studentPwd": "123456",
+      "classId": "3"
+    },
+    {
+      "studentId": "4",
+      "studentName": "权信",
+      "studentAccount": "quanxin",
+      "studentPwd": "123456",
+      "classId": "4"
+    },
+    {
+      "studentId": "6",
+      "studentName": "寅鑫",
+      "studentAccount": "xinyan",
+      "studentPwd": "123456",
+      "classId": "4"
+    },
+    {
+      "studentId": "7",
+      "studentName": "栋坤",
+      "studentAccount": "dongkun",
+      "studentPwd": "123456",
+      "classId": "6"
+    },
+    {
+      "studentId": "8",
+      "studentName": "梁辰",
+      "studentAccount": "liangchen",
+      "studentPwd": "123456",
+      "classId": "7"
+    },
+    {
+      "studentId": "9",
+      "studentName": "澄宇",
+      "studentAccount": "chenyu",
+      "studentPwd": "123456",
+      "classId": "8"
+    },
+    {
+      "studentId": "10",
+      "studentName": "邓小飞",
+      "studentAccount": "test",
+      "studentPwd": "123456",
+      "classId": "2"
+    },
+    {
+      "studentId": "11",
+      "studentName": "张君宝",
+      "studentAccount": "zhangjb",
+      "studentPwd": "123456",
+      "classId": "19"
+    },
+    {
+      "studentId": "12",
+      "studentName": "张晓华",
+      "studentAccount": "zhangxiaohua",
+      "studentPwd": "123456",
+      "classId": "5"
+    },
+    {
+      "studentId": "13",
+      "studentName": "张飞",
+      "studentAccount": "zhangfei",
+      "studentPwd": "123456",
+      "classId": "20"
+    },
+    {
+      "studentId": "14",
+      "studentName": "关羽",
+      "studentAccount": "guanyu",
+      "studentPwd": "123465",
+      "classId": "7"
+    },
+    {
+      "studentId": "15",
+      "studentName": "马超",
+      "studentAccount": "machao",
+      "studentPwd": "123456",
+      "classId": "9"
+    },
+    {
+      "studentId": "16",
+      "studentName": "李世明",
+      "studentAccount": "lishiming",
+      "studentPwd": "123456",
+      "classId": "10"
+    },
+    {
+      "studentId": "17",
+      "studentName": "猿来学生",
+      "studentAccount": "yuanlaixs",
+      "studentPwd": "123456",
+      "classId": "19"
+    },
+    {
+      "studentId": "18",
+      "studentName": "李哲",
+      "studentAccount": "lizhe",
+      "studentPwd": "123456",
+      "classId": "19"
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "RECORDS": [
+    {
+      "chooseId": "17",
+      "studentId": "11",
+      "examPaperId": "8",
+      "subjectId": "6545",
+      "chooseResult": "这是简答题呀！"
+    },
+    {
+      "chooseId": "18",
+      "studentId": "11",
+      "examPaperId": "8",
+      "subjectId": "6546",
+      "chooseResult": "帅的掉渣呀！"
+    },
+    {
+      "chooseId": "19",
+      "studentId": "11",
+      "examPaperId": "8",
+      "subjectId": "6508",
+      "chooseResult": "D"
+    },
+    {
+      "chooseId": "20",
+      "studentId": "11",
+      "examPaperId": "8",
+      "subjectId": "6523",
+      "chooseResult": "多做项目"
+    },
+    {
+      "chooseId": "21",
+      "studentId": "11",
+      "examPaperId": "8",
+      "subjectId": "6541",
+      "chooseResult": "C"
+    },
+    {
+      "chooseId": "22",
+      "studentId": "11",
+      "examPaperId": "8",
+      "subjectId": "6525",
+      "chooseResult": "A,C"
+    },
+    {
+      "chooseId": "23",
+      "studentId": "11",
+      "examPaperId": "8",
+      "subjectId": "6544",
+      "chooseResult": "B,D"
+    },
+    {
+      "chooseId": "24",
+      "studentId": "11",
+      "examPaperId": "8",
+      "subjectId": "6542",
+      "chooseResult": "B"
+    },
+    {
+      "chooseId": "25",
+      "studentId": "11",
+      "examPaperId": "8",
+      "subjectId": "6543",
+      "chooseResult": "A,B,D"
+    },
+    {
+      "chooseId": "26",
+      "studentId": "11",
+      "examPaperId": "7",
+      "subjectId": "6541",
+      "chooseResult": "B"
+    },
+    {
+      "chooseId": "27",
+      "studentId": "11",
+      "examPaperId": "7",
+      "subjectId": "6542",
+      "chooseResult": "C"
+    },
+    {
+      "chooseId": "28",
+      "studentId": "11",
+      "examPaperId": "7",
+      "subjectId": "6543",
+      "chooseResult": "A,C,D"
+    },
+    {
+      "chooseId": "29",
+      "studentId": "11",
+      "examPaperId": "7",
+      "subjectId": "6544",
+      "chooseResult": "A,B,D"
+    },
+    {
+      "chooseId": "30",
+      "studentId": "11",
+      "examPaperId": "7",
+      "subjectId": "6545",
+      "chooseResult": "简答题答案"
+    },
+    {
+      "chooseId": "31",
+      "studentId": "11",
+      "examPaperId": "1",
+      "subjectId": "10",
+      "chooseResult": "C"
+    },
+    {
+      "chooseId": "32",
+      "studentId": "17",
+      "examPaperId": "8",
+      "subjectId": "6508",
+      "chooseResult": "B"
+    },
+    {
+      "chooseId": "33",
+      "studentId": "17",
+      "examPaperId": "8",
+      "subjectId": "6523",
+      "chooseResult": "多做项目，作实战项目，跟着猿来入此站长做实战项目。"
+    },
+    {
+      "chooseId": "34",
+      "studentId": "17",
+      "examPaperId": "8",
+      "subjectId": "6525",
+      "chooseResult": "A,B,C,D"
+    },
+    {
+      "chooseId": "35",
+      "studentId": "17",
+      "examPaperId": "8",
+      "subjectId": "6541",
+      "chooseResult": "B"
+    },
+    {
+      "chooseId": "36",
+      "studentId": "17",
+      "examPaperId": "8",
+      "subjectId": "6542",
+      "chooseResult": "C"
+    },
+    {
+      "chooseId": "37",
+      "studentId": "17",
+      "examPaperId": "8",
+      "subjectId": "6543",
+      "chooseResult": "A,C"
+    },
+    {
+      "chooseId": "38",
+      "studentId": "17",
+      "examPaperId": "8",
+      "subjectId": "6544",
+      "chooseResult": "A,C,D"
+    },
+    {
+      "chooseId": "39",
+      "studentId": "17",
+      "examPaperId": "8",
+      "subjectId": "6545",
+      "chooseResult": "简答题答案"
+    },
+    {
+      "chooseId": "40",
+      "studentId": "17",
+      "examPaperId": "8",
+      "subjectId": "6546",
+      "chooseResult": "帅得掉渣"
+    },
+    {
+      "chooseId": "41",
+      "studentId": "17",
+      "examPaperId": "1",
+      "subjectId": "10",
+      "chooseResult": "C"
+    },
+    {
+      "chooseId": "42",
+      "studentId": "18",
+      "examPaperId": "8",
+      "subjectId": "6508",
+      "chooseResult": "B"
+    },
+    {
+      "chooseId": "43",
+      "studentId": "18",
+      "examPaperId": "8",
+      "subjectId": "6523",
+      "chooseResult": "多做项目，作实战项目，跟着猿来入此站长做实战项目。"
+    },
+    {
+      "chooseId": "44",
+      "studentId": "18",
+      "examPaperId": "8",
+      "subjectId": "6525",
+      "chooseResult": "A,B,C,D"
+    },
+    {
+      "chooseId": "45",
+      "studentId": "18",
+      "examPaperId": "8",
+      "subjectId": "6541",
+      "chooseResult": "B"
+    },
+    {
+      "chooseId": "46",
+      "studentId": "18",
+      "examPaperId": "8",
+      "subjectId": "6542",
+      "chooseResult": "C"
+    },
+    {
+      "chooseId": "47",
+      "studentId": "18",
+      "examPaperId": "8",
+      "subjectId": "6543",
+      "chooseResult": "A,C"
+    },
+    {
+      "chooseId": "48",
+      "studentId": "18",
+      "examPaperId": "8",
+      "subjectId": "6544",
+      "chooseResult": "A,C,D"
+    },
+    {
+      "chooseId": "49",
+      "studentId": "18",
+      "examPaperId": "8",
+      "subjectId": "6545",
+      "chooseResult": "简答题答案"
+    },
+    {
+      "chooseId": "50",
+      "studentId": "18",
+      "examPaperId": "8",
+      "subjectId": "6546",
+      "chooseResult": "帅得掉渣"
+    },
+    {
+      "chooseId": "51",
+      "studentId": "18",
+      "examPaperId": "1",
+      "subjectId": "10",
+      "chooseResult": "C"
+    },
+    {
+      "chooseId": "52",
+      "studentId": "1",
+      "examPaperId": "1",
+      "subjectId": "10",
+      "chooseResult": "C"
+    },
+    {
+      "chooseId": "53",
+      "studentId": "11",
+      "examPaperId": "3",
+      "subjectId": "3",
+      "chooseResult": "C"
+    },
+    {
+      "chooseId": "54",
+      "studentId": "11",
+      "examPaperId": "3",
+      "subjectId": "4",
+      "chooseResult": "C"
+    }
+  ]
+}

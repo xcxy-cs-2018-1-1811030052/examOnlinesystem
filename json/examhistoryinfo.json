@@ -1,0 +1,58 @@
+{
+  "RECORDS": [
+    {
+      "historyId": "1",
+      "studentId": "11",
+      "examPaperId": "8",
+      "examScore": "5"
+    },
+    {
+      "historyId": "2",
+      "studentId": "11",
+      "examPaperId": "7",
+      "examScore": "10"
+    },
+    {
+      "historyId": "3",
+      "studentId": "11",
+      "examPaperId": "1",
+      "examScore": "2"
+    },
+    {
+      "historyId": "4",
+      "studentId": "17",
+      "examPaperId": "8",
+      "examScore": "38"
+    },
+    {
+      "historyId": "5",
+      "studentId": "17",
+      "examPaperId": "1",
+      "examScore": "2"
+    },
+    {
+      "historyId": "6",
+      "studentId": "18",
+      "examPaperId": "8",
+      "examScore": "48"
+    },
+    {
+      "historyId": "7",
+      "studentId": "18",
+      "examPaperId": "1",
+      "examScore": "2"
+    },
+    {
+      "historyId": "8",
+      "studentId": "1",
+      "examPaperId": "1",
+      "examScore": "2"
+    },
+    {
+      "historyId": "9",
+      "studentId": "11",
+      "examPaperId": "3",
+      "examScore": "4"
+    }
+  ]
+}

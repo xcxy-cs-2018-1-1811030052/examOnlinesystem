@@ -1,0 +1,20 @@
+{
+  "RECORDS": [
+    {
+      "gradeId": "1",
+      "gradeName": "高一"
+    },
+    {
+      "gradeId": "2",
+      "gradeName": "高二"
+    },
+    {
+      "gradeId": "3",
+      "gradeName": "高三"
+    },
+    {
+      "gradeId": "4",
+      "gradeName": "计算机1501"
+    }
+  ]
+}

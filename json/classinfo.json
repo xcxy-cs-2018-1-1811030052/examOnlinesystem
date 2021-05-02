@@ -1,0 +1,124 @@
+{
+  "RECORDS": [
+    {
+      "classId": "1",
+      "className": "高一一班",
+      "gradeId": "1",
+      "teacherId": "2"
+    },
+    {
+      "classId": "2",
+      "className": "高一二班",
+      "gradeId": "1",
+      "teacherId": "1"
+    },
+    {
+      "classId": "3",
+      "className": "高一三班",
+      "gradeId": "1",
+      "teacherId": "3"
+    },
+    {
+      "classId": "4",
+      "className": "高一四班",
+      "gradeId": "1",
+      "teacherId": "4"
+    },
+    {
+      "classId": "5",
+      "className": "高一五班",
+      "gradeId": "1",
+      "teacherId": "5"
+    },
+    {
+      "classId": "6",
+      "className": "高一六班",
+      "gradeId": "1",
+      "teacherId": "6"
+    },
+    {
+      "classId": "7",
+      "className": "高二一班",
+      "gradeId": "2",
+      "teacherId": "7"
+    },
+    {
+      "classId": "8",
+      "className": "高二二班",
+      "gradeId": "2",
+      "teacherId": "8"
+    },
+    {
+      "classId": "9",
+      "className": "高二三班",
+      "gradeId": "2",
+      "teacherId": "9"
+    },
+    {
+      "classId": "10",
+      "className": "高二四班",
+      "gradeId": "2",
+      "teacherId": "10"
+    },
+    {
+      "classId": "11",
+      "className": "高二五班",
+      "gradeId": "2",
+      "teacherId": "11"
+    },
+    {
+      "classId": "12",
+      "className": "高二六班",
+      "gradeId": "2",
+      "teacherId": "12"
+    },
+    {
+      "classId": "13",
+      "className": "高三一班",
+      "gradeId": "3",
+      "teacherId": "13"
+    },
+    {
+      "classId": "14",
+      "className": "高三二班",
+      "gradeId": "3",
+      "teacherId": "14"
+    },
+    {
+      "classId": "15",
+      "className": "高三三班",
+      "gradeId": "3",
+      "teacherId": "15"
+    },
+    {
+      "classId": "16",
+      "className": "高三四班",
+      "gradeId": "3",
+      "teacherId": "16"
+    },
+    {
+      "classId": "17",
+      "className": "高三五班",
+      "gradeId": "3",
+      "teacherId": "17"
+    },
+    {
+      "classId": "18",
+      "className": "高三六班",
+      "gradeId": "3",
+      "teacherId": "18"
+    },
+    {
+      "classId": "19",
+      "className": "软件1501",
+      "gradeId": "4",
+      "teacherId": "21"
+    },
+    {
+      "classId": "20",
+      "className": "网络安全1501",
+      "gradeId": "4",
+      "teacherId": "22"
+    }
+  ]
+}

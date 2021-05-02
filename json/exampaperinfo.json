@@ -1,0 +1,64 @@
+{
+  "RECORDS": [
+    {
+      "examPaperId": "1",
+      "examPaperName": "语文三单元测试",
+      "subjectNum": "1",
+      "examPaperTime": "20",
+      "examPaperScore": "2",
+      "gradeId": "1",
+      "division": "0",
+      "examPaperEasy": "1"
+    },
+    {
+      "examPaperId": "2",
+      "examPaperName": "语文-期中考试",
+      "subjectNum": "15",
+      "examPaperTime": "30",
+      "examPaperScore": "30",
+      "gradeId": "1",
+      "division": "0",
+      "examPaperEasy": "1"
+    },
+    {
+      "examPaperId": "3",
+      "examPaperName": "测试试卷",
+      "subjectNum": "2",
+      "examPaperTime": "90",
+      "examPaperScore": "4",
+      "gradeId": "3",
+      "division": "0",
+      "examPaperEasy": "0"
+    },
+    {
+      "examPaperId": "5",
+      "examPaperName": "文学基本常识",
+      "subjectNum": "5",
+      "examPaperTime": "30",
+      "examPaperScore": "10",
+      "gradeId": "1",
+      "division": "1",
+      "examPaperEasy": "0"
+    },
+    {
+      "examPaperId": "7",
+      "examPaperName": "测试导入试卷",
+      "subjectNum": "6",
+      "examPaperTime": "30",
+      "examPaperScore": "43",
+      "gradeId": "4",
+      "division": "2",
+      "examPaperEasy": "1"
+    },
+    {
+      "examPaperId": "8",
+      "examPaperName": "计算机常识",
+      "subjectNum": "9",
+      "examPaperTime": "90",
+      "examPaperScore": "61",
+      "gradeId": "4",
+      "division": "0",
+      "examPaperEasy": "0"
+    }
+  ]
+}
